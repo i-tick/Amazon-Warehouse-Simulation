@@ -1,7 +1,7 @@
 # Amazon Warehouse Simulation
 Simulation of a Amazon warehouse Robots performing operations such as pick and place objects with the help of motion planning algorithms, and also updating the orders data remotely to Google sheets
 
-[![Warehouse Simulation Video](https://img.youtube.com/vi/I9CYj6VW5oQ/0.jpg)](https://youtu.be/I)
+[![Warehouse Simulation Video](https://img.youtube.com/vi/I9CYj6VW5oQ/0.jpg)](https://www.youtube.com/watch?v=I9CYj6VW5oQ)
 
 [Objective](#objective)
 =======================
@@ -27,4 +27,4 @@ The objective of this project is to implement a Warehouse Management System to s
 8. As the run progresses, the `Warehouse Inventory Dashboard` should be updated in real-time. In the `Warehouse Inventory Mastersheet`, a separate sheet called `Dashboard` can be created to show values from other sheets in the `Warehouse Inventory Mastersheet` spreadsheet. This `Dashboard` sheet can be used as a JSON endpoint to update the `Warehouse Inventory Dashboard` in real-time.
 
 ### Step 7 Implementation
-[![Warehouse Simulation Video](https://img.youtube.com/vi/b8-A88NU40Y/0.jpg)](https://youtu.be/b8)
+[![Warehouse Simulation Video](https://img.youtube.com/vi/b8-A88NU40Y/0.jpg)](https://youtu.be/b8-A88NU40Y?si=Bxe51Xp5Fs28k4I1)
